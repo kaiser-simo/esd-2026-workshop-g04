@@ -15,3 +15,4 @@ Local development is optional: run `npm test` with Node.js to execute the same t
 ## Presenter note
 
 This default-branch exercise is separate from the live CI/CD demonstration on `feature/ci-cd-demo`. Do not merge the demo branch into `main` as part of this exercise.
+hello
